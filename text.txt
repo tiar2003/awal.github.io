@@ -3,3 +3,31 @@ selamat ulang tahun ke 14 yaa. semoga panjnag umur, sehat selalu, semoga ditahun
 
 oh iyaa. juni nanti udah kls 9 kan? Mulai dpikir mau SMA atau SMK tuu, apapun pilohanmu nanti semoga bisa beruna buat kamu dan oang" sekitar mu juga yaa
 AAMIIN
+
+
+<script>
+            function tulis2(){
+                if (b < tulisan2.length){
+                    document.getElementById("Tulisan").innerHTML += tulisan2.charAt(b);
+                    b++;
+                    setTimeout (tulis, kecepatan);
+                }
+            }
+        </script>
+function{ 
+            if (i< tulisan2.length) {
+                    document.getElementById("Tulisan").innerHTML += tulisan2.charAt(b);
+                    b++;
+                    setTimeout( kecepatan);
+                }
+            }
+
+
+
+    
+        <br>
+        
+        <p>
+            
+    
+    <a href="foto.html">Next</a>
