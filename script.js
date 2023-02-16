@@ -32,6 +32,12 @@ $(document).ready(function(){
         $('.gb3 img').fadeToggle("normal");
         $('.gb3 p').fadeToggle("normal");
     })
+    $('.bt5').click(function(){
+        $('.gb5' ).fadeToggle("normal");
+
+    })
+    
+
 })
 
 $(document).ready(function(){

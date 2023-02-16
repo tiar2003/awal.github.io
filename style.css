@@ -159,6 +159,14 @@ button:active {
     
 }
 
+.gb5 {
+    display: none;
+    
+}
+.gb5 video{
+    display: -ms-grid;
+}
+
 .fotkepala {
     margin-top: 30px;
     text-align: center;
