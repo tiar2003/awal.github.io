@@ -1,5 +1,5 @@
 var i = 0;
-var tulisan = "Hari ini ulang tahun ke 14 yaa??. Semoga panjnag umur, sehat selalu, semoga ditahun ini bahagia teruss, gausah sedih-sedih lagii. semakin nurut sm ayah ibuu, mulai kurang-kurangin tuhh sifat yang kurang baikk anggap tahun kemarin buat pembelajaran.     OH yaa, juni nanti udah kls 9 kan? Mulai dpikir mau SMA atau SMK tuu, apapun pilihanmu nanti semoga bisa berguna buat kamu dan orang-orang sekitarmu juga yaa            AAMIIN";
+var tulisan = "Hari ini ulang tahun ke 14 yaa??. Semoga panjang umur, sehat selalu, semoga ditahun ini bahagia teruss, gausah sedih-sedih lagii. semakin nurut sm ayah ibuu, mulai kurang-kurangin tuhh sifat yang kurang baikk anggap tahun kemarin buat pembelajaran.     OH yaa, Udah mau kls 9 kan? Mulai dpikir mau SMA atau SMK tuu, apapun pilihanmu nanti semoga bisa berguna buat kamu dan orang-orang sekitarmu juga yaa            AAMIIN";
 var kecepatan = 40;
 
 
